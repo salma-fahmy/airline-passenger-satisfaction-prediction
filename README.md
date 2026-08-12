@@ -10,7 +10,6 @@ An end-to-end project: data analysis in a notebook, a trained model pipeline, an
 
 ## How to run
 ```bash
-pip install -r requirements.txt   # add your dependencies here
 python app.py
 ```
 
